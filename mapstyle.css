@@ -1,0 +1,40 @@
+#map {
+    height: 540px;
+    width: 100%;
+  }
+
+#getDB {
+  margin-block-start: 1.3em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+#content {
+  font-family: "arial";
+}
+
+#window-description {
+  font-family: "arial";
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+#thumbs-up {
+  height: 3rem;
+  width: 4rem;
+  /* background-color: transparent;
+  background-image: url(./images/buttons/thumbs_up_gray.png);
+  background-repeat: no-repeat;
+  background-position: 0px 0px; */
+  transform: scale(0.7);
+}
+
+#thumbs-down {
+  height: 3rem;
+  width: 4rem;
+  /* background-color: transparent;
+  background-image: url(./images/buttons/thumbs_down_gray.png);
+  background-repeat: no-repeat;
+  background-position: 0px 0px; */
+  transform: scale(0.7);
+}
